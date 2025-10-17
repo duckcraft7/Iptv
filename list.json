@@ -1,0 +1,27 @@
+{
+  "categorias": [
+    {
+      "titulo": "Filmes",
+      "items": [
+        {
+          "titulo": "Cronicas de Narnia: O leão e a feiticeira do guarda roupa",
+          "ano": "2009",
+          "poster": "https://ia801002.us.archive.org/14/items/cronicas-de-narnia-01/Cronicas%20de%20Narnia%2001.jpg",
+          "playerUrl": "player_ narnia.html"
+        },
+        {
+          "titulo": "Como treinar o seu Dragão",
+          "ano": "2001",
+          "poster": "https://ia801005.us.archive.org/15/items/filmes-infantis/Filmes%20Infantis.jpeg",
+          "playerUrl": "player_dragao1.html"
+        },
+        {
+          "titulo": "Como treinar o seu Dragão 2",
+          "ano": "2001",
+          "poster": "https://ia800301.us.archive.org/28/items/cartaz-como-treinar-o-seu-dragao-2/Cartaz_%20Como%20Treinar%20o%20Seu%20Dragao%202.jpeg",
+          "playerUrl": "player_dragao2.html"
+        },
+      ]
+    }
+  ]
+}
