@@ -51,6 +51,13 @@
           "ano": "2009",
           "poster": "https://i.ibb.co/TB5wJG4Y/images-1.jpg",
           "videoLink": "https://archive.org/download/avatar-2009_202510/Avatar%202009.mp4"
+        },
+        {
+          "id": "frozen1",
+          "titulo": "Frozen",
+          "ano": "2012",
+          "poster": "https://i.ibb.co/03ztb3T/download-1.webp",
+          "videoLink": "https://archive.org/download/fro-zen/Frozen.mp4"
         }
       ]
     }
