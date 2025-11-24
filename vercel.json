@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/list.json",
+      "source": "/lista.json",
       "headers": [
         { "key": "Access-Control-Allow-Origin", "value": "*" },
         { "key": "Access-Control-Allow-Methods", "value": "GET" },
